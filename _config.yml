@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "YouDongKwan"
 description              : "hello ssafy..!"
 url                      : "https://dkyou7.github.io"
-baseurl                  : "/ssafy_test"
+baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
