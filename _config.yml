@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "youdongkwan"
+title                    : "SSAFY 2018-2019"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "한줄소개."
+name                     : "YouDongKwan"
+description              : "hello ssafy."
 url                      : "https://dkyou7.github.io"
 baseurl                  : "/ssafy_test"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
